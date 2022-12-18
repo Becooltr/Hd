@@ -33,7 +33,7 @@ module.exports = async (client) => {
   }
 // Lourity - Paylaşılması yasaktır!!
   console.log(`${client.user.tag} Aktif!`);
-  client.user.setActivity("Lourity Uptime Bot - discord.gg/altyapilar")
+  client.user.setActivity("UpTimeR Bot | Unknown Developtment")
 
 
   monitor.start()
